@@ -1,0 +1,17 @@
+.mani {
+    border: 3px, solid, black;
+    
+}
+
+.game {
+    border: 3px, solid, black;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 100px;
+}
