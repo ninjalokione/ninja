@@ -1,0 +1,2 @@
+# ninja
+a personal website
